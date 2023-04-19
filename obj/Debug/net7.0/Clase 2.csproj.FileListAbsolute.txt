@@ -1,0 +1,31 @@
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\bin\Debug\net7.0\appsettings.json
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\bin\Debug\net7.0\Clase 2.staticwebassets.runtime.json
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\bin\Debug\net7.0\Clase 2.exe
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\bin\Debug\net7.0\Clase 2.deps.json
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\bin\Debug\net7.0\Clase 2.runtimeconfig.json
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\bin\Debug\net7.0\Clase 2.dll
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\bin\Debug\net7.0\Clase 2.pdb
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\Clase 2.csproj.AssemblyReference.cache
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\Clase 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\Clase 2.AssemblyInfoInputs.cache
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\Clase 2.AssemblyInfo.cs
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\Clase 2.csproj.CoreCompileInputs.cache
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\Clase 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\Clase 2.RazorAssemblyInfo.cache
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\Clase 2.RazorAssemblyInfo.cs
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\staticwebassets\msbuild.Clase 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\staticwebassets\msbuild.build.Clase 2.props
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Clase 2.props
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Clase 2.props
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\scopedcss\bundle\Clase 2.styles.css
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\scopedcss\projectbundle\Clase 2.bundle.scp.css
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\Clase 2.dll
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\refint\Clase 2.dll
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\Clase 2.pdb
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\Clase 2.genruntimeconfig.cache
+C:\Users\fgonz\OneDrive\Escritorio\Análisis en sistemas - ISTEA\2023\HP\Clase 2\obj\Debug\net7.0\ref\Clase 2.dll
